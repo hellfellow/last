@@ -1,0 +1,102 @@
+
+
+body{
+	color:#FFFFFF;
+	font-size:15pt;
+	font-family: 'Quicksand', sans-serif;
+	}
+
+header{background:linear-gradient(45deg,#FF4500,#EB000B);
+	opacity:0.95;
+	color:white;
+	}	
+#dropdownMenuLink{
+	color:#6c757d;
+	background-color:#F0F8FF;
+	border-color:#F0F8FF;
+}
+.up{
+	background-color:#1F2229;
+	padding-top:180px;
+	
+	}
+.up p{padding-bottom:40px;}	
+.uppercard{
+	background:linear-gradient(45deg,#4B3E4C,black);
+	border-radius:25px;
+	border:solid 2px white;
+	box-shadow:5px 5px 5px black;
+}
+.left{float:right;}
+.photo{
+	margin:auto;
+	border-radius:50%;
+	border:linear-gradient(45deg, #EECFBA, #C5DDE8) solid 3px;
+	height:150px;
+	width:150px;
+	background-image:url(photo.jpg);
+	background-size:cover;
+	overflow:hidden;
+	position:relative;
+	bottom:70px;
+	border:solid 2px white;
+	box-shadow:5px 5px 5px black;
+}
+h1{text-align:center;
+}
+.uppercard div{
+	margin-bottom:20px;
+	}
+
+.uppercard div:hover{
+	color:#CE21CE;
+	}
+.skills {
+	background-color:#1F2229;	
+	height:300px;
+}
+
+.skills .card-left{
+	background:linear-gradient(45deg,#FF4500,#EB000B);	
+	border-radius:25px;
+	box-shadow:5px 5px 5px black;
+	text-align:center;
+}
+
+.skills .card-right{
+	background:linear-gradient(45deg,#430E43,#C01AC0);	
+	
+	box-shadow:5px 5px 5px black;
+	text-align:center;
+}
+.skills .card-right:hover{
+	border-radius:40px;
+}
+
+.line{
+      height:200px;
+      text-align:center;
+	  background-color:#1F2229;
+	  
+	  }
+.line div{width:400px;
+      margin-top:40px;
+	  margin-left:auto;
+	  margin-right:auto;
+}
+ 
+
+
+
+
+
+footer{
+	background-color:black;
+	height:100px;
+}
+
+
+
+
+
+
